@@ -1,5 +1,5 @@
 {{ config(
-    materialized='finance_days'
+    materialized='table'
 ) }}
 
 SELECT
